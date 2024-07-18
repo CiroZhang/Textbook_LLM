@@ -1,0 +1,94 @@
+[
+    {
+        "INTRODUCTION": 3,
+        "EMBRYOLOGY": {
+            "main": 3,
+            "Epidermis": 3,
+            "Dermis": 4,
+            "Epithelial Skin Appendages": 4
+        },
+        "HISTOMORPHOLOGY": {
+            "main": 5,
+            "Epidermis": 5,
+            "Dermis": 15,
+            "Subcutaneous Tissue": 16,
+            "Blood Vessels, Lymphatics, Nerves, and Muscle": 17
+        },
+        "HISTOLOGIC DIFFERENCES OF SKIN WITH AGE": {
+            "main": 18,
+            "Newborns and Children": 18,
+            "Elderly": 18
+        },
+        "HISTOLOGIC VARIATIONS ACCORDING TO ANATOMIC SITES": 19,
+        "PATHOLOGIC CHANGES FOUND IN BIOPSIES AND INTERPRETED AS 'NORMAL SKIN'": 20,
+        "SPECIMEN HANDLING": 21,
+        "ARTIFACTS": 21,
+        "STAINING METHODS": {
+            "main": 22,
+            "Histochemical Stains": 23,
+            "Immunofluorescence": 23,
+            "Immunohistochemical Stains/Molecular Studies": 23
+        },
+        "REFERENCES": 26
+    },
+    {
+        "HISTORY": 31,
+        "EMBRYOLOGY": 32,
+        "GENETIC AND NAIL KERATINS": 34,
+        "GROSS ANATOMY": 37,
+        "MICROSCOPIC ANATOMY": {
+            "page": 39,
+            "sections": {
+                "The Nail Plate": 39,
+                "Proximal Nail Fold": 40,
+                "Matrix": 41,
+                "Nail Bed": 43,
+                "Hyponychium": 45,
+                "Lateral Nail Folds": 45
+            }
+        },
+        "IMMUNOHISTOCHEMISTRY OF THE NAIL UNIT": {
+            "page": 46,
+            "sections": {
+                "Nail Plate": 46,
+                "Keratinocytes": 46
+            }
+        },
+        "Merkel Cells": 51,
+        "Melanocytes": 51,
+        "Immunology and Inflammatory Cells": 52,
+        "ULTRASTRUCTURAL ANATOMY": 53,
+        "OTHER TISSUES OF THE NAIL UNIT": {
+            "page": 55,
+            "sections": {
+                "Dermis": 55,
+                "Bone": 56,
+                "Blood Supply": 57
+            }
+        },
+        "NAIL GROWTH": 57,
+        "HANDLING AND PROCESSING OF THE NAIL": 59,
+        "REFERENCES": 60
+    },
+    {
+        "INTRODUCTION": 67,
+        "EMBRYOLOGY": 67,
+        "ADOLESCENCE": 68,
+        "THE ADULT FEMALE BREAST": 69,
+        "PREGNANCY AND LACTATION": 76,
+        "MENOPAUSE": 77,
+        "BLOOD SUPPLY": 78,
+        "LYMPHATIC DRAINAGE": 78,
+        "THE ADULT MALE BREAST": 78,
+        "BIOLOGIC MARKERS, IMMUNOPHENOTYPE, AND MOLECULAR BIOLOGY": {
+            "page": 78,
+            "subsections": {
+                "Estrogen Receptor and Progesterone Receptor": 78,
+                "Other Biomarkers and Immunophenotypic Features": 79,
+                "Molecular Markers": 79
+            }
+        },
+        "CONCLUSION": 79,
+        "REFERENCES": 79
+    }
+]

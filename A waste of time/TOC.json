@@ -1,0 +1,788 @@
+[
+    {
+        "INTRODUCTION": 3,
+        "EMBRYOLOGY": {
+            "main": 3,
+            "Epidermis": 3,
+            "Dermis": 4,
+            "Epithelial Skin Appendages": 4
+        },
+        "HISTOMORPHOLOGY": {
+            "main": 5,
+            "Epidermis": 5,
+            "Dermis": 15,
+            "Subcutaneous Tissue": 16,
+            "Blood Vessels, Lymphatics, Nerves, and Muscle": 17
+        },
+        "HISTOLOGIC DIFFERENCES OF SKIN WITH AGE": {
+            "main": 18,
+            "Newborns and Children": 18,
+            "Elderly": 18
+        },
+        "HISTOLOGIC VARIATIONS ACCORDING TO ANATOMIC SITES": 19,
+        "PATHOLOGIC CHANGES FOUND IN BIOPSIES AND INTERPRETED AS 'NORMAL SKIN'": 20,
+        "SPECIMEN HANDLING": 21,
+        "ARTIFACTS": 21,
+        "STAINING METHODS": {
+            "main": 22,
+            "Histochemical Stains": 23,
+            "Immunofluorescence": 23,
+            "Immunohistochemical Stains/Molecular Studies": 23
+        },
+        "REFERENCES": 26
+    },
+    {
+        "HISTORY": 31,
+        "EMBRYOLOGY": 32,
+        "GENETIC AND NAIL KERATINS": 34,
+        "GROSS ANATOMY": 37,
+        "MICROSCOPIC ANATOMY": {
+            "page": 39,
+            "sections": {
+                "The Nail Plate": 39,
+                "Proximal Nail Fold": 40,
+                "Matrix": 41,
+                "Nail Bed": 43,
+                "Hyponychium": 45,
+                "Lateral Nail Folds": 45
+            }
+        },
+        "IMMUNOHISTOCHEMISTRY OF THE NAIL UNIT": {
+            "page": 46,
+            "sections": {
+                "Nail Plate": 46,
+                "Keratinocytes": 46
+            }
+        },
+        "Merkel Cells": 51,
+        "Melanocytes": 51,
+        "Immunology and Inflammatory Cells": 52,
+        "ULTRASTRUCTURAL ANATOMY": 53,
+        "OTHER TISSUES OF THE NAIL UNIT": {
+            "page": 55,
+            "sections": {
+                "Dermis": 55,
+                "Bone": 56,
+                "Blood Supply": 57
+            }
+        },
+        "NAIL GROWTH": 57,
+        "HANDLING AND PROCESSING OF THE NAIL": 59,
+        "REFERENCES": 60
+    },
+    {
+        "INTRODUCTION": 67,
+        "EMBRYOLOGY": 67,
+        "ADOLESCENCE": 68,
+        "THE ADULT FEMALE BREAST": 69,
+        "PREGNANCY AND LACTATION": 76,
+        "MENOPAUSE": 77,
+        "BLOOD SUPPLY": 78,
+        "LYMPHATIC DRAINAGE": 78,
+        "THE ADULT MALE BREAST": 78,
+        "BIOLOGIC MARKERS, IMMUNOPHENOTYPE, AND MOLECULAR BIOLOGY": {
+            "page": 78,
+            "subsections": {
+                "Estrogen Receptor and Progesterone Receptor": 78,
+                "Other Biomarkers and Immunophenotypic Features": 79,
+                "Molecular Markers": 79
+            }
+        },
+        "CONCLUSION": 79,
+        "REFERENCES": 79
+    },
+    {
+        "INTRODUCTION": 85,
+        "BONE\u2014THE ORGAN: GROSS AND MICROSCOPIC ANATOMY": {
+            "page": 85,
+            "sections": {
+                "Woven and Lamellar Bone": 87,
+                "Cortical (Compact) Bone": 89,
+                "Cancellous (Trabecular or Spongy) Bone": 91,
+                "Periosteum": 92,
+                "Vascular Supply and Innervation": 92
+            }
+        },
+        "BONE\u2014THE TISSUE: ORGANIC AND INORGANIC COMPONENTS": {
+            "page": 93,
+            "sections": {
+                "Organic Components": 93,
+                "Inorganic Components": 96
+            }
+        },
+        "BONE FORMATION, GROWTH, AND REMODELING": {
+            "page": 97,
+            "sections": {
+                "Endochondral Ossification": 97,
+                "Intramembranous Ossification": 103,
+                "Modeling and Remodeling": 103
+            }
+        },
+        "REFERENCES": 105
+    },
+    {
+        "INTRODUCTION": 107,
+        "THE NORMAL JOINT": {
+            "page": 107,
+            "sections": {
+                "Diarthrodial Joint": 107,
+                "Amphiarthrodial Joint": 110
+            }
+        },
+        "THE NORMAL JOINT TISSUES": {
+            "page": 111,
+            "sections": {
+                "Articular Cartilage": 111,
+                "Synovial Membrane": 119,
+                "Ligaments and Tendons": 120
+            }
+        },
+        "THE ARTHRITIC JOINT": {
+            "page": 121,
+            "sections": {
+                "Alteration in Shape": 122
+            }
+        },
+        "TISSUE RESPONSE TO INJURY": {
+            "page": 122,
+            "sections": {
+                "Cartilage": 122,
+                "Bone": 124,
+                "Ligaments": 127,
+                "Synovial Membrane": 127,
+                "Synovial Fluid": 128
+            }
+        },
+        "REFERENCES": 129
+    },
+    {
+        "DISCOVERY OF THE MYOFIBROBLAST": 131,
+        "CHARACTERIZATION OF THE MYOFIBROBLAST": {
+            "page": 132,
+            "sections": {
+                "Ultrastructural": 132,
+                "Histologic": 133,
+                "Immunohistochemical": 135,
+                "Biochemical": 137,
+                "Pharmacologic": 137
+            }
+        },
+        "MECHANISTIC ASPECTS OF THE MYOFIBROBLAST": {
+            "page": 138,
+            "sections": {
+                "In Vitro Culture Studies": 138,
+                "Myofibroblast Differentiation: A Two-stage Model": 138,
+                "Mechanisms of Force Generation": 139,
+                "Mechanisms of Force Transmission": 141
+            }
+        },
+        "TISSUE DISTRIBUTION OF MYOFIBROBLASTS": {
+            "page": 141,
+            "sections": {
+                "Normal Tissues": 141,
+                "Granulation Tissue": 142,
+                "Pathologic Tissues": 143,
+                "Responses to Injury and Repair Phenomena": 143,
+                "Myofibroblasts in Kidney Diseases": 144,
+                "Quasi-neoplastic Proliferative Conditions": 147,
+                "Dupuytren's Disease": 148,
+                "Other Quasi-neoplastic Proliferative Conditions": 151,
+                "Stromal Response to Neoplasia": 152,
+                "Neoplasms of Myofibroblasts: Benign and Malignant": 158
+            }
+        },
+        "MULTIPLE ORIGINS OF THE MYOFIBROBLAST": 161,
+        "MECHANISMS OF MYOFIBROBLAST REGRESSION": 163,
+        "CONCLUDING REMARKS": 165,
+        "ACKNOWLEDGMENTS": 166,
+        "REFERENCES": 166
+    },
+    {
+        "INTRODUCTION": 179,
+        "WHITE FAT": {
+            "page": 180,
+            "sections": {
+                "Prenatal Development": 180,
+                "Molecular Biology": 182,
+                "Postnatal Development": 182,
+                "Gender Differences": 182,
+                "Functions": 182,
+                "Regulation": 183,
+                "Gross Aspects": 184,
+                "Histology": 184,
+                "Ultrastructure": 184
+            }
+        },
+        "BROWN FAT": {
+            "page": 184,
+            "sections": {
+                "Prenatal Development": 184,
+                "Postnatal Development": 185,
+                "Function": 186,
+                "Regulation": 186,
+                "Histology": 186
+            }
+        },
+        "HISTOCHEMISTRY": {
+            "page": 187,
+            "sections": {
+                "Enzyme Histochemistry": 187,
+                "Lipid Histochemistry": 187
+            }
+        },
+        "IMMUNOHISTOCHEMISTRY": {
+            "page": 188,
+            "sections": {
+                "Obesity": 189
+            }
+        },
+        "ADIPOCYTE LESIONS": {
+            "page": 189,
+            "sections": {
+                "Terminology": 189,
+                "Degeneration": 189,
+                "Atrophy": 189,
+                "Cellulite": 191,
+                "Ischemia": 191,
+                "Metaplasia": 191
+            }
+        },
+        "LIPODYSTROPHY": 192,
+        "ADIPOCYTES IN ORGANS": {
+            "page": 192,
+            "sections": {
+                "Fatty Infiltration": 192
+            }
+        },
+        "FAT BIOPSY FOR AMYLOID": 193,
+        "INFLAMMATIONS": {
+            "page": 194,
+            "sections": {
+                "Fat Necrosis": 194,
+                "Calciphylaxis": 194,
+                "Panniculitis": 195,
+                "Mesenteritis": 195,
+                "Lipogranuloma": 195
+            }
+        },
+        "TUMORS AND TUMOR-LIKE LESIONS": {
+            "page": 195,
+            "sections": {
+                "Brown Fat Lesions": 195,
+                "White Fat Lesions": 196,
+                "Special Lipoma Types": 200,
+                "Lipoblastoma": 200
+            }
+        },
+        "CYTOGENETICS OF LIPOMAS": 201,
+        "SYNDROMES ASSOCIATED WITH FATTY LESIONS (INCLUDING LIPOMATOSIS)": 201,
+        "MIMICS OF FAT CELLS": {
+            "page": 202,
+            "sections": {
+                "Mature Fat Cells": 202,
+                "Lipoblasts": 202
+            }
+        },
+        "REFERENCES": 203
+    },
+    {
+        "INTRODUCTION": 211,
+        "EMBRYOLOGY": 211,
+        "POSTNATAL AND DEVELOPMENTAL CHANGES": 213,
+        "APOPTOSIS": 214,
+        "ANATOMY": 214,
+        "LIGHT MICROSCOPY": 216,
+        "ULTRASTRUCTURE": 220,
+        "SPECIAL TECHNIQUES": 222,
+        "FUNCTION": 223,
+        "GENDER, TRAINING, AND AGING": 225,
+        "ARTIFACTS": 227,
+        "DIFFERENTIAL DIAGNOSIS": 229,
+        "SPECIMEN HANDLING": 231,
+        "REFERENCES": 232
+    },
+    {
+        "GROSS AND LIGHT MICROSCOPIC FEATURES": {
+            "page": 233,
+            "sections": {
+                "Aorta": 233,
+                "Arteries": 238,
+                "Arterioles": 240,
+                "Capillaries, Sinusoids, Venules, and Lymphatics": 241,
+                "Veins": 242,
+                "Pulmonary Arteries and Veins": 242,
+                "Anastomoses, Angiodysplasias, and Vascular Malformations": 243,
+                "Vascular Surgery": 247,
+                "Media": 251,
+                "Adventitia and Supporting Cells": 251,
+                "Lymphatics and Veins": 251
+            }
+        },
+        "ELECTRON MICROSCOPY": {
+            "page": 249,
+            "sections": {
+                "Endothelial Cells": 249,
+                "Inclusions of Endothelial Cells": 250
+            }
+        },
+        "ANTIGEN EXPRESSION OF NORMAL AND NEOPLASTIC VASCULAR TISSUE": {
+            "page": 251,
+            "sections": {
+                "Endothelium": 251,
+                "Smooth Muscle": 253,
+                "Other Useful Antibodies for Diagnostic Vascular Pathology": 256
+            }
+        },
+        "REFERENCES": 256
+    },
+    {
+        "INTRODUCTION": 261,
+        "DEVELOPMENT OF THE PERIPHERAL NERVOUS SYSTEM": 261,
+        "GROWTH OF AXONS": 262,
+        "SCHWANN CELLS AND MYELINATION": 263,
+        "ANATOMY OF PERIPHERAL NERVES": 263,
+        "HISTOLOGY, IMMUNOCYTOCHEMISTRY, AND ULTRASTRUCTURE OF PERIPHERAL NERVES": {
+            "page": 264,
+            "sections": {
+                "Components of the Nerve Sheath": 264,
+                "Epineurium": 265,
+                "Perineurium": 265,
+                "Endoneurium": 268,
+                "Blood Supply of Peripheral Nerves": 269,
+                "Nerve Fibers": 269,
+                "Myelinated Axons": 270,
+                "Axoplasmic Flow": 272,
+                "The Periaxonal Space of Klebs": 272,
+                "Schwann Cells": 273,
+                "Myelin": 273,
+                "Schmidt\u2013Lantermann Clefts or Incisures (S\u2013L I)": 275,
+                "Nodes of Ranvier": 275,
+                "Unmyelinated Axons": 276
+            }
+        },
+        "CORRELATION OF NORMAL HISTOLOGY WITH THE PATHOLOGY OF PERIPHERAL NERVES": {
+            "page": 278,
+            "sections": {
+                "Handling and Preparation of Peripheral Nerve Biopsy and Autopsy Specimens": 278,
+                "Peripheral Neuropathies": 279,
+                "General Pathology of Peripheral Nerves": 279,
+                "Axonal Degeneration and Regeneration": 279,
+                "Segmental Demyelination and Remyelination": 281,
+                "Hypertrophic Neuropathy": 282,
+                "Traumatic Lesions of Peripheral Nerve": 282,
+                "Tumors of the Peripheral Nervous System": 284
+            }
+        },
+        "ACKNOWLEDGMENTS": 288,
+        "REFERENCES": 288
+    },
+    {
+        "INTRODUCTION": 295,
+        "REGIONAL NEUROANATOMY": {
+            "page": 295,
+            "sections": {
+                "Organization of the Spinal Cord and Brain Stem": 295
+            }
+        },
+        "CELLULAR CONSTITUENTS OF THE CENTRAL NERVOUS SYSTEM": {
+            "page": 301,
+            "sections": {
+                "Gray Matter and White Matter": 301,
+                "Neurons": 301,
+                "Astrocytes": 310,
+                "Oligodendroglia": 313,
+                "Ependyma": 315,
+                "Microglia and the Monocyte\u2014Macrophage System": 316,
+                "Response to Injury": 318
+            }
+        },
+        "SPECIALIZED ORGANS OF THE CENTRAL NERVOUS SYSTEM": {
+            "page": 320,
+            "sections": {
+                "Pineal Gland": 320,
+                "Median Eminence and Infundibulum": 321,
+                "Olfactory Bulbs and Tracts": 322,
+                "Choroid Plexus": 322,
+                "Circumventricular Organs": 325
+            }
+        },
+        "INTRADURAL ELEMENTS OF THE PERIPHERAL NERVOUS SYSTEM": 327,
+        "MENINGES": {
+            "page": 330,
+            "sections": {
+                "Dura Mater (Pachymenix)": 330,
+                "Pia-arachnoid (Leptomeninges)": 332,
+                "Leptomeningeal Melanocytes": 335,
+                "Optic Nerve": 335
+            }
+        },
+        "FETAL BRAIN": 336,
+        "ARTIFACTS": 336,
+        "SUGGESTED READINGS": 340
+    },
+    {
+        "EMBRYOLOGY": 343,
+        "GROSS ANATOMY": {
+            "page": 345,
+            "sections": {
+                "Bony Sella": 345,
+                "Meninges": 346,
+                "Vasculature": 347
+            }
+        },
+        "PHYSIOLOGY AND HISTOLOGY": {
+            "page": 353,
+            "sections": {
+                "Hypothalamus": 353,
+                "Adenohypophysis": 355,
+                "Variation in Normal Morphology of the Adenohypophysis": 365,
+                "Age-related Changes of the Adenohypophysis": 367,
+                "Neurohypophysis": 368,
+                "Variation in Normal Morphology of the Neurohypophysis": 368
+            }
+        },
+        "DIFFERENTIAL DIAGNOSIS": 369,
+        "REFERENCES": 370
+    },
+    {
+        "CORNEA": 376,
+        "SCLERA": 378,
+        "CORNEOSCLERAL LIMBUS": 379,
+        "CONJUNCTIVA, CARUNCLE, AND PLICA SEMILUNARIS": 381,
+        "THE UVEAL TRACT": {
+            "page": 382,
+            "sections": {
+                "The Iris": 383,
+                "The Ciliary Body": 383,
+                "Choroid": 385
+            }
+        },
+        "RETINA": {
+            "page": 387,
+            "sections": {
+                "Artifacts of the Retina": 390
+            }
+        },
+        "THE OPTIC NERVE": 391,
+        "THE CRYSTALLINE LENS": 392,
+        "INTRAOCULAR COMPARTMENTS": 393,
+        "THE EYELIDS": 394,
+        "THE ORBIT": 394,
+        "LACRIMAL DRAINAGE APPARATUS": 397,
+        "ACKNOWLEDGMENT": 398,
+        "REFERENCES": 398
+    },
+    {
+        "EMBRYOLOGY": 400,
+        "EXTERNAL EAR": {
+            "page": 401,
+            "sections": {
+                "Embryology": 401,
+                "Anatomy": 401,
+                "Histology": 402,
+                "Auditory Epithelial Migration": 402
+            }
+        },
+        "MIDDLE EAR": {
+            "page": 403,
+            "sections": {
+                "Embryology": 403,
+                "Anatomy": 404,
+                "Middle Ear Ossicles and Muscles": 406,
+                "Eustachian (Auditory) Tube": 407,
+                "Histology": {
+                    "page": 407,
+                    "sections": {
+                        "Tympanic Cavity Proper": 407,
+                        "Eustachian Tube": 408,
+                        "Mastoid Air Cells": 408,
+                        "Pneumatization of the Temporal Bone": 408,
+                        "Middle Ear Ossicles": 408,
+                        "Middle Ear Joints": 409,
+                        "Middle Ear Muscles": 410
+                    }
+                }
+            }
+        },
+        "INNER EAR": {
+            "page": 411,
+            "sections": {
+                "Embryology": 411,
+                "Anatomy": {
+                    "page": 411,
+                    "sections": {
+                        "Osseous Labyrinth (Otic Capsule)": 411,
+                        "Membranous Labyrinth": 412,
+                        "Cochlear Duct": 412,
+                        "Utricle": 414,
+                        "Saccule": 414,
+                        "Semicircular Canals": 414,
+                        "Endolymphatic Duct and Sac": 415
+                    }
+                },
+                "Inner Ear Innervation": 415,
+                "Histology": {
+                    "page": 416,
+                    "sections": {
+                        "Osseous Labyrinth": 416,
+                        "Membranous Labyrinth": 416,
+                        "Cochlea": 416,
+                        "Semicircular Canals, Utricle and Saccule": 417,
+                        "Nerves and Paraganglia": 418,
+                        "Endolymphatic Sac and Duct": 419
+                    }
+                },
+                "Composition and Circulation of the Perilymph and Endolymph": 420,
+                "Conduction of Sound": 420
+            }
+        },
+        "SELECTED ABNORMALITIES AND PATHOLOGY": {
+            "page": 421,
+            "sections": {
+                "External Ear": 421,
+                "Middle Ear": {
+                    "page": 422,
+                    "sections": {
+                        "Otitis Media": 422,
+                        "Cholesteatoma (Keratomia)": 424,
+                        "Pathology": 425,
+                        "Otosclerosis": 426
+                    }
+                },
+                "Inner Ear": {
+                    "page": 427,
+                    "sections": {
+                        "Presbycusis and Other Hearing Loss": 427,
+                        "M\u00e9ni\u00e8re\u2019s Disease": 428
+                    }
+                }
+            }
+        },
+        "TEMPORAL BONE DISSECTION": 430,
+        "REFERENCES": 430
+    },
+    {
+        "EMBRYOLOGY AND PRENATAL CHANGES": 433,
+        "GROSS ANATOMY": {
+            "page": 436,
+            "sections": {
+                "Jawbone": 436,
+                "Nose": 436,
+                "Paranasal Sinuses": 436,
+                "Blood Vessels": 437,
+                "Nerves": 437,
+                "Lymph Nodes": 437,
+                "Lymphatics": 438,
+                "Tonsils": 438
+            }
+        },
+        "MICROSCOPY": {
+            "page": 439,
+            "sections": {
+                "Mouth": 439,
+                "Nose and Paranasal Sinuses": 453
+            }
+        },
+        "REFERENCES": 456
+    },
+    {
+        "LARYNX": {
+            "page": 461,
+            "sections": {
+                "Definition and Boundaries": 461,
+                "Embryology": 461,
+                "Gross and Functional Anatomy": 461,
+                "Microscopic Anatomy": 463,
+                "Neural, Vascular, and Lymphatic Components": 469
+            }
+        },
+        "PHARYNX": {
+            "page": 469,
+            "sections": {
+                "Definition and Boundaries": 469,
+                "Embryology": 470,
+                "Gross Anatomy": 470,
+                "Microscopic Anatomy": 471,
+                "Neural, Vascular, and Lymphatic Components": 474
+            }
+        },
+        "REFERENCES": 474
+    },
+    {
+        "EMBRYOLOGIC AND POSTNATAL DEVELOPMENTAL CHANGES": {
+            "page": 477,
+            "sections": {
+                "Parotid Gland": 477,
+                "Submandibular Gland": 479,
+                "Sublingual Gland": 479
+            }
+        },
+        "LIGHT MICROSCOPY": 479,
+        "SECRETORY UNITS": {
+            "page": 480,
+            "sections": {
+                "Acini": 480,
+                "Ducts": 481
+            }
+        },
+        "SEBACEOUS GLANDS": 483,
+        "MYOEPITHELIAL CELLS": 484,
+        "THE ROLE OF MYOEPITHELIAL CELLS IN SALIVARY GLAND TUMORS": 485,
+        "LYMPHOID TISSUE": 486,
+        "HETEROTOPIC SALIVARY TISSUE AND ITS SIGNIFICANCE": 488,
+        "AGING CHANGES": {
+            "page": 489,
+            "sections": {
+                "Oncocytes": 489,
+                "Fatty Infiltration": 490
+            }
+        },
+        "REACTIVE CHANGES": {
+            "page": 490,
+            "sections": {
+                "Metaplasia": 490,
+                "Hyperplasia": 491,
+                "Atrophy": 491,
+                "Regeneration": 492
+            }
+        },
+        "CORRELATIVE NORMAL AND NEOPLASTIC HISTOLOGY": 492,
+        "IMMUNOHISTOCHEMISTRY": 494,
+        "SPECIMEN HANDLING": 495,
+        "REFERENCES": 496
+    },
+    {
+        "NORMAL STRUCTURE AND HISTOLOGY": {
+            "page": 505,
+            "sections": {
+                "General": 505,
+                "Airways": 505,
+                "Lobule and Acinus": 508,
+                "Vasculature": 513,
+                "Lymphatics and Lymphoid Tissue": 514,
+                "Pleura": 515
+            }
+        },
+        "SPECIAL STAINS AND THE EVALUATION OF LUNG HISTOLOGY": 515,
+        "PATTERN RECOGNITION BASED ON NORMAL ANATOMIC LANDMARKS": 516,
+        "SITE-RELATED CHANGES COMMONLY SEEN IN SURGICAL PATHOLOGY MATERIAL": 516,
+        "ARTIFACTS SEEN IN LUNG BIOPSY AND RESECTION MATERIAL": 519,
+        "INCIDENTAL FINDINGS IN LUNG BIOPSY AND RESECTION TISSUE": 522,
+        "INCIDENTAL FINDINGS IN TRANSBRONCHIAL BIOPSIES": 533,
+        "EFFECTS OF AGING": 533,
+        "THE BIOPSY THAT LOOKS NORMAL AT FIRST GLANCE": 534,
+        "IMMUNOHISTOLOGY": 535,
+        "REFERENCES": 537
+    },
+    {
+        "INTRODUCTION": 541,
+        "EMBRYOLOGY": 541,
+        "DEVELOPMENTAL ABNORMALITIES": 542,
+        "APOPTOSIS": 543,
+        "ANATOMY": 543,
+        "HISTOLOGY": {
+            "page": 544,
+            "sections": {
+                "Epithelial Cells": 544,
+                "Hassall\u2019s Corpuscles": 545,
+                "Thymic Lymphocytes (Thymocytes)": 546,
+                "Other Cell Types": 546
+            }
+        },
+        "ULTRASTRUCTURE": 548,
+        "IMMUNOHISTOCHEMISTRY": {
+            "page": 549,
+            "sections": {
+                "Thymic Epithelial Cells": 549,
+                "Thymic Lymphocytes": 550
+            }
+        },
+        "MOLECULAR BIOLOGY": 551,
+        "FUNCTION": 552,
+        "AGE-RELATED AND OTHER TROPHIC CHANGES": {
+            "page": 552,
+            "sections": {
+                "Thymic Involution": 552,
+                "Thymic Hyperplasia": 553
+            }
+        },
+        "ARTIFACTS AND OTHER POTENTIAL PITFALLS IN DIFFERENTIAL DIAGNOSIS": 555,
+        "REFERENCES": 557
+    },
+    {
+        "INTRODUCTION": 563,
+        "HEART WEIGHTS": 564,
+        "PRENATAL FETAL CIRCULATION": 564,
+        "POSTNATAL CIRCULATION": 564,
+        "PERICARDIUM": {
+            "page": 565,
+            "sections": {
+                "Applied Anatomy": 566
+            }
+        },
+        "CARDIAC SKELETON": {
+            "page": 566,
+            "sections": {
+                "Applied Anatomy": 566
+            }
+        },
+        "INTERNAL STRUCTURE OF THE HEART WALL": 566,
+        "INTERATRIAL SEPTUM": {
+            "page": 568,
+            "sections": {
+                "Applied Anatomy": 568
+            }
+        },
+        "RIGHT ATRIUM": 568,
+        "LEFT ATRIUM": 569,
+        "RIGHT VENTRICLE": {
+            "page": 569,
+            "sections": {
+                "Applied Anatomy": 570
+            }
+        },
+        "LEFT VENTRICLE": {
+            "page": 571,
+            "sections": {
+                "Applied Anatomy": 571
+            }
+        },
+        "CARDIAC VALVES": {
+            "page": 571,
+            "sections": {
+                "Semilunar Valves": 571,
+                "Atrioventricular Valves": 572,
+                "Chordae Tendineae": 573,
+                "Applied Anatomy of Intracardiac Valves": 573,
+                "Aging Changes of Intracardiac Valves": 574
+            }
+        },
+        "PAPILLARY MUSCLES": 574,
+        "CONDUCTION SYSTEM": {
+            "page": 574,
+            "sections": {
+                "Sinoatrial Node": 575,
+                "Atrioventricular Node": 575,
+                "Aging Changes in the Human Conduction System": 577
+            }
+        },
+        "CARDIAC INNERVATION": {
+            "page": 577,
+            "sections": {
+                "Autonomic Nerves": 578
+            }
+        },
+        "LYMPHATICS": 578,
+        "SMALL INTRAMURAL CORONARY ARTERIES": 578,
+        "VEINS AND VENULES": 579,
+        "THE ENDOMYOCARDIAL BIOPSY": {
+            "page": 579,
+            "sections": {
+                "Tissue Handling and Processing": 579,
+                "Biopsy Limitations and Tissue Artifacts": 579
+            }
+        },
+        "SUMMARY": 581,
+        "REFERENCES": 581
+    }
+]
